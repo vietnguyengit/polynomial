@@ -1,3 +1,8 @@
+/*
+
+Author: Viet Nguyen
+
+*/
 #ifndef POL_POLYNOMINAL_H_
 #define POL_POLYNOMINAL_H_
 #define MAX_DEGREE 20 + 1
