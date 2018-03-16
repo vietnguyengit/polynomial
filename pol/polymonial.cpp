@@ -1,3 +1,8 @@
+/*
+
+Author: Viet Nguyen
+
+*/
 #include "polynomial.h"
 #include <iostream>
 using namespace std;
